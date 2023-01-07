@@ -1,0 +1,54 @@
+newmtl shark_02:GlossBlack
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl shark_02:Ice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 0.10 0.10 0.10
+Ni 1.50
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl shark_02:Metal_Rust
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 0.90 0.90 0.90
+map_Kd Medrust3.tga
+bump  -bm 0.02 Medrust3.tga
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 0.06
+newmtl shark_02:Stones_Benedeti
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Benedeti.tga
+bump  -bm 0.02 Benedeti.tga
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 0.06
+newmtl shark_02:Stones_Benedeti_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 0.90 0.90 0.90
+map_Kd Benedeti.tga
+bump  -bm 0.02 Benedeti.tga
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 0.06
+newmtl shark_02:default1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 0.06
